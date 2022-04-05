@@ -13,7 +13,7 @@ email: md.nazmul.islam0087@gmail.com
 
 ```bash
 
-pip install 1NeuronPerceptron-Pypi-mdnazmulislam0087==0.0.3
+pip install 1NeuronPerceptron-Pypi-mdnazmulislam0087==0.0.4
 
 ```
 ## Run the below code to see the training and plot file for or Gate, similarly you can use AND, NAND and XOR GATE to see the difference-
@@ -87,5 +87,8 @@ Using one Neuron Perceptron, We cant make decision boundary for XOR GATe, In sum
 [github docs for github actions](https://docs.github.com/en/actions/guides/building-and-testing-python#publishing-to-package-registries)
 
 [Read me editor](https://readme.so/editor)
+
+# more details can be found
+[1Neuron Perceptron](https://github.com/mdnazmulislam0087/1NeuronPerceptron)
 
 
