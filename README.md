@@ -71,6 +71,12 @@ if __name__=="__main__": # << entry point <<
         logging.exception(e)
         raise e  
 ```
+# Packages required-
+1. matplotlib
+2. numpy
+3. pandas
+4. joblib
+5. tqdm
 
 # Limitation
 Using one Neuron Perceptron, We cant make decision boundary for XOR GATe, In summary XOR Gate classification is not possible using one Neuron Perceptron
@@ -82,4 +88,4 @@ Using one Neuron Perceptron, We cant make decision boundary for XOR GATe, In sum
 
 [Read me editor](https://readme.so/editor)
 
-## Second
+
